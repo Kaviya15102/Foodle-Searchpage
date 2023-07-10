@@ -1,0 +1,15 @@
+.container {
+    margin-top: 2rem;
+  }
+  
+  .image-list {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+  }
+  
+  .image-list .card {
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+  }
+  
